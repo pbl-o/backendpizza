@@ -12,11 +12,11 @@ app.use(express.json());
 app.use(cors());
 
 // Landing (for informationla purposes)
-app.get('/', ()=>{
+app.get('/', (req, res)=>{
   try {
-    res.status(200).json({message: "Page working, using a temporary DB"})
+    return res.status(200).json({message: "Page working, using a temporary DB"})
   } catch (error) {
-    res.status(500).json({message: "Server error"})
+    return res.status(500).json({message: "Server error"})
   }
 })
 
