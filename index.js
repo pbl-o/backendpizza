@@ -11,10 +11,10 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-// Landing (for informationla purposes)
+// Landing (for informational purposes)
 app.get('/', (req, res)=>{
   try {
-    return res.status(200).json({message: "Page working, using a temporary DB"})
+    return res.status(200).json({message: "The server is running", about :"This is a REST API that serves and stores data from a temporary database for learning purposes."})
   } catch (error) {
     return res.status(500).json({message: "Server error"})
   }
