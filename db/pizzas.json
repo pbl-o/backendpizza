@@ -2,7 +2,7 @@
   {
     "desc": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
     "id": "p001",
-    "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/napolitana.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvbmFwb2xpdGFuYS5wbmciLCJpYXQiOjE3NzY3MTAyNzgsImV4cCI6MTgwODI0NjI3OH0.TGg6kQknqLFHyxiXRHA5AGNauvxuDd5_GACEebA9FYws",
+    "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/napolitana.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvbmFwb2xpdGFuYS5wbmciLCJpYXQiOjE3NzY3MTA3ODgsImV4cCI6MTgwODI0Njc4OH0.yYl4yK1ZnRLE2pQSqxzD_ays5vw7Xvk3bhqK9Sa0ojc",
     "ingredients": ["mozzarella", "tomates", "jamón", "orégano"],
     "name": "napolitana",
     "price": 5950
