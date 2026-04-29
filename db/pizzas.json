@@ -3,7 +3,7 @@
     "desc": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
     "id": "p001",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/napolitana.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvbmFwb2xpdGFuYS5wbmciLCJpYXQiOjE3NzY3MTA3ODgsImV4cCI6MTgwODI0Njc4OH0.yYl4yK1ZnRLE2pQSqxzD_ays5vw7Xvk3bhqK9Sa0ojc",
-    "ingredients": ["mozzarella", "tomates", "jamón", "orégano"],
+    "ingredients": ["Queso mozzarella", "tomates rama", "jamón", "orégano"],
     "name": "napolitana",
     "price": 5950
   },
@@ -11,7 +11,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p002",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/pepperoni.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvcGVwcGVyb25pLnBuZyIsImlhdCI6MTc3NjcxMDA1MSwiZXhwIjoxODA4MjQ2MDUxfQ.q-hzl86UJl58sbcTmc-4EVWZorkwjEw2_zJAolXYDF8",
-    "ingredients": ["mozzarella", "tomates", "jamón", "choricillo"],
+    "ingredients": ["Queso mozzarella", "tomates rama", "jamón", "choricillo"],
     "name": "española",
     "price": 7250
   },
@@ -19,7 +19,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p003",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/pollo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvcG9sbG8ucG5nIiwiaWF0IjoxNzc2NzEwNDM1LCJleHAiOjE4MDgyNDY0MzV9.2EgwT480l83D-p95xVMDn1LrCSZdFd3G-oip2W_guV8",
-    "ingredients": ["mozzarella", "tomates", "salame", "orégano"],
+    "ingredients": ["Queso mozzarella", "tomates rama", "salame", "orégano"],
     "name": "Margherita",
     "price": 5990
   },
@@ -27,7 +27,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p004",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/vegetariana.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvdmVnZXRhcmlhbmEucG5nIiwiaWF0IjoxNzc2NzEwMzI3LCJleHAiOjE4MDgyNDYzMjd9.hR_Feo-NnpQl0WMXe_5h9xwVTd1YTQjJUCcxh08JryY",
-    "ingredients": ["mozzarella", "salame", "aceitunas", "champiñones"],
+    "ingredients": ["Queso mozzarella", "salame", "aceitunas", "champiñones"],
     "name": "cuatro estaciones",
     "price": 9590
   },
@@ -35,7 +35,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p005",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/pollo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvcG9sbG8ucG5nIiwiaWF0IjoxNzc2NzEwMzg2LCJleHAiOjE4MDgyNDYzODZ9.CRb3yYsBJ_c1SHwqiJel8qkZk8iT8NZPSgHE_XM9U8g",
-    "ingredients": ["mozzarella", "tomates cherry", "bacon", "orégano"],
+    "ingredients": ["Queso mozzarella", "tomates cherry", "bacon", "orégano"],
     "name": "bacon",
     "price": 6450
   },
@@ -43,7 +43,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p006",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/pollo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvcG9sbG8ucG5nIiwiaWF0IjoxNzc2NzEwMzY0LCJleHAiOjE4MDgyNDYzNjR9.djeik13PkzfktbYeJDEmI0PMWfxjfClgckhgwRwPkJY",
-    "ingredients": ["mozzarella", "pimientos", "pollo grillé", "orégano"],
+    "ingredients": ["Queso mozzarella", "pimientos", "pollo grillé", "orégano"],
     "name": "pollo picante",
     "price": 8500
   },
@@ -51,7 +51,7 @@
     "desc": "La pizza napolitana vegana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
     "id": "p007",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/napolitana.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvbmFwb2xpdGFuYS5wbmciLCJpYXQiOjE3NzY3MTA3ODgsImV4cCI6MTgwODI0Njc4OH0.yYl4yK1ZnRLE2pQSqxzD_ays5vw7Xvk3bhqK9Sa0ojc",
-    "ingredients": ["mozzarella", "tomates", "jamón vegano", "orégano"],
+    "ingredients": ["Queso mozzarella", "tomates rama", "jamón vegano", "orégano"],
     "name": "napolitana",
     "price": 5950
   },
@@ -59,7 +59,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p008",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/pepperoni.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvcGVwcGVyb25pLnBuZyIsImlhdCI6MTc3NjcxMDA1MSwiZXhwIjoxODA4MjQ2MDUxfQ.q-hzl86UJl58sbcTmc-4EVWZorkwjEw2_zJAolXYDF8",
-    "ingredients": ["mozzarella", "tomates", "jamón", "shitake"],
+    "ingredients": ["Queso mozzarella", "tomates rama", "jamón", "shitake"],
     "name": "española vegetariana",
     "price": 7250
   },
@@ -67,7 +67,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p009",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/pollo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvcG9sbG8ucG5nIiwiaWF0IjoxNzc2NzEwNDM1LCJleHAiOjE4MDgyNDY0MzV9.2EgwT480l83D-p95xVMDn1LrCSZdFd3G-oip2W_guV8",
-    "ingredients": ["mozzarella sin lactosa", "tomates", "salame", "orégano"],
+    "ingredients": ["Queso mozzarella sin lactosa", "tomates rama", "salame", "orégano"],
     "name": "Margherita sin lactosa",
     "price": 5990
   },
@@ -75,7 +75,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p0010",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/vegetariana.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvdmVnZXRhcmlhbmEucG5nIiwiaWF0IjoxNzc2NzEwMzI3LCJleHAiOjE4MDgyNDYzMjd9.hR_Feo-NnpQl0WMXe_5h9xwVTd1YTQjJUCcxh08JryY",
-    "ingredients": ["mozzarella", "berngejas picantes", "aceitunas", "champiñones"],
+    "ingredients": ["Queso mozzarella", "berngejas picantes", "aceitunas", "champiñones"],
     "name": "cuatro estaciones vegetariana",
     "price": 9590
   },
@@ -83,7 +83,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p0011",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/pollo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvcG9sbG8ucG5nIiwiaWF0IjoxNzc2NzEwMzg2LCJleHAiOjE4MDgyNDYzODZ9.CRb3yYsBJ_c1SHwqiJel8qkZk8iT8NZPSgHE_XM9U8g",
-    "ingredients": ["mozzarella", "tomates cherry", "bacon de zanahoria", "orégano"],
+    "ingredients": ["Queso mozzarella", "tomates rama cherry", "bacon de zanahoria", "orégano"],
     "name": "bacon vegano",
     "price": 6450
   },
@@ -91,7 +91,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p0012",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/pollo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvcG9sbG8ucG5nIiwiaWF0IjoxNzc2NzEwMzY0LCJleHAiOjE4MDgyNDYzNjR9.djeik13PkzfktbYeJDEmI0PMWfxjfClgckhgwRwPkJY",
-    "ingredients": ["mozzarella", "pimientos", "seitán grillé", "orégano"],
+    "ingredients": ["Queso mozzarella", "pimientos", "seitán grillé", "orégano"],
     "name": "pollo picante vegano",
     "price": 8500
   }
