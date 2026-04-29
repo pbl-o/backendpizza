@@ -67,7 +67,7 @@
     "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
     "id": "p009",
     "img": "https://wqnttdexmkcakapbykey.supabase.co/storage/v1/object/sign/pizzas/pollo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jYWQ1ZTNhMy01ODlkLTRmMzgtYjkzZC02N2NhOGYxZDAzODgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwaXp6YXMvcG9sbG8ucG5nIiwiaWF0IjoxNzc2NzEwNDM1LCJleHAiOjE4MDgyNDY0MzV9.2EgwT480l83D-p95xVMDn1LrCSZdFd3G-oip2W_guV8",
-    "ingredients": ["Queso mozzarella sin lactosa", "tomates rama", "salame", "orégano"],
+    "ingredients": ["Queso mozzarella s. lactosa", "tomates rama", "salame", "orégano"],
     "name": "Margherita sin lactosa",
     "price": 5990
   },
